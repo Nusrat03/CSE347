@@ -1,0 +1,440 @@
+{
+    "AddressType": 0,
+    "TranscriptAddress": "Road # 8, House # 7, 1st Floor, Mirpur-10, Pallabi, Dhaka.",
+    "GuardianVM": null,
+    "StudentVM": {
+        "StudentId": "2019-2-60-022",
+        "FirstName": "Zuhair Ishraq Zareef",
+        "MiddleName": null,
+        "LastName": null,
+        "GraduationStatus": null,
+        "Address": "Road # 8, House # 7, 1st Floor, Mirpur-10, Pallabi, Dhaka.",
+        "StudentName": "Zuhair Ishraq Zareef ",
+        "DateofBirth": "1998-09-21T00:00:00",
+        "ProgramName": "B.Sc. in Computer Science and Engineering",
+        "ProgramTypeName": "Undergraduate"
+    },
+    "TotalGPACredits": 86,
+    "TotalCreditsEarned": 86,
+    "CGPA": 3.01,
+    "TotalGradePoints": 258.5,
+    "TotalCreditWithTransferOrWaiver": 0,
+    "TranscriptDatas": [
+        {
+            "DisplayType": 0,
+            "TransferFrom": null,
+            "TotalCreditsTransferred": 0,
+            "TotalCreditsWaived": 0,
+            "SemesterName": "Summer-2019",
+            "TotalCreditCount": 10.5,
+            "gpa": 2.73,
+            "cgpa": 2.73,
+            "courses": [
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "CSE103",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Structured Programming",
+                    "CourseCredits": 4.5,
+                    "Grade": "C-",
+                    "GradePoints": 7.65,
+                    "GPACredit": 4.5
+                },
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "ENG101",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Basic English",
+                    "CourseCredits": 3,
+                    "Grade": "A",
+                    "GradePoints": 12,
+                    "GPACredit": 3
+                },
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "MAT101",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Differential & Integral Calculus",
+                    "CourseCredits": 3,
+                    "Grade": "B",
+                    "GradePoints": 9,
+                    "GPACredit": 3
+                }
+            ],
+            "MeritScholarshipTypeName": ""
+        },
+        {
+            "DisplayType": 0,
+            "TransferFrom": null,
+            "TotalCreditsTransferred": 0,
+            "TotalCreditsWaived": 0,
+            "SemesterName": "Fall-2019",
+            "TotalCreditCount": 9,
+            "gpa": 2.3,
+            "cgpa": 2.53,
+            "courses": [
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "CSE106",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Discrete Mathematics",
+                    "CourseCredits": 3,
+                    "Grade": "C+",
+                    "GradePoints": 6.9,
+                    "GPACredit": 3
+                },
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "ENG102",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Composition and Communication Skills",
+                    "CourseCredits": 3,
+                    "Grade": "B+",
+                    "GradePoints": 9.9,
+                    "GPACredit": 3
+                },
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "MAT102",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Differential Equations & Special Functions",
+                    "CourseCredits": 3,
+                    "Grade": "D+",
+                    "GradePoints": 3.9,
+                    "GPACredit": 3
+                }
+            ],
+            "MeritScholarshipTypeName": ""
+        },
+        {
+            "DisplayType": 0,
+            "TransferFrom": null,
+            "TotalCreditsTransferred": 0,
+            "TotalCreditsWaived": 0,
+            "SemesterName": "Spring-2020",
+            "TotalCreditCount": 8.5,
+            "gpa": 3.23,
+            "cgpa": 2.74,
+            "courses": [
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "CHE109",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Engineering Chemistry-I",
+                    "CourseCredits": 4,
+                    "Grade": "B-",
+                    "GradePoints": 10.8,
+                    "GPACredit": 4
+                },
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "CSE110",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Object Oriented Programming",
+                    "CourseCredits": 4.5,
+                    "Grade": "A-",
+                    "GradePoints": 16.65,
+                    "GPACredit": 4.5
+                },
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "MAT104",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Co-ordinate Geometry & Vector Analysis",
+                    "CourseCredits": 3,
+                    "Grade": "R",
+                    "GradePoints": 0,
+                    "GPACredit": 0
+                }
+            ],
+            "MeritScholarshipTypeName": ""
+        },
+        {
+            "DisplayType": 0,
+            "TransferFrom": null,
+            "TotalCreditsTransferred": 0,
+            "TotalCreditsWaived": 0,
+            "SemesterName": "Summer-2020",
+            "TotalCreditCount": 10,
+            "gpa": 2.69,
+            "cgpa": 2.73,
+            "courses": [
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "CSE209",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Electrical Circuits",
+                    "CourseCredits": 4,
+                    "Grade": "C",
+                    "GradePoints": 8,
+                    "GPACredit": 4
+                },
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "ECO101",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Principles of Microeconomics",
+                    "CourseCredits": 3,
+                    "Grade": "B+",
+                    "GradePoints": 9.9,
+                    "GPACredit": 3
+                },
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "GEN226",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Emergence of Bangladesh",
+                    "CourseCredits": 3,
+                    "Grade": "B",
+                    "GradePoints": 9,
+                    "GPACredit": 3
+                }
+            ],
+            "MeritScholarshipTypeName": ""
+        },
+        {
+            "DisplayType": 0,
+            "TransferFrom": null,
+            "TotalCreditsTransferred": 0,
+            "TotalCreditsWaived": 0,
+            "SemesterName": "Fall-2020",
+            "TotalCreditCount": 11,
+            "gpa": 2.66,
+            "cgpa": 2.71,
+            "courses": [
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "CSE251",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Electronic Circuits",
+                    "CourseCredits": 4,
+                    "Grade": "B",
+                    "GradePoints": 12,
+                    "GPACredit": 4
+                },
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "PHY109",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Engineering Physics-I",
+                    "CourseCredits": 4,
+                    "Grade": "C+",
+                    "GradePoints": 9.2,
+                    "GPACredit": 4
+                },
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "STA102",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Statistics and Probability",
+                    "CourseCredits": 3,
+                    "Grade": "B-",
+                    "GradePoints": 8.1,
+                    "GPACredit": 3
+                }
+            ],
+            "MeritScholarshipTypeName": ""
+        },
+        {
+            "DisplayType": 0,
+            "TransferFrom": null,
+            "TotalCreditsTransferred": 0,
+            "TotalCreditsWaived": 0,
+            "SemesterName": "Spring-2021",
+            "TotalCreditCount": 13,
+            "gpa": 3.47,
+            "cgpa": 2.87,
+            "courses": [
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "BUS231",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Business Communication ",
+                    "CourseCredits": 3,
+                    "Grade": "A",
+                    "GradePoints": 12,
+                    "GPACredit": 3
+                },
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "CSE207",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Data Structures",
+                    "CourseCredits": 4,
+                    "Grade": "A",
+                    "GradePoints": 16,
+                    "GPACredit": 4
+                },
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "MAT104",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Co-ordinate Geometry & Vector Analysis",
+                    "CourseCredits": 3,
+                    "Grade": "C",
+                    "GradePoints": 6,
+                    "GPACredit": 3
+                },
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "MAT205",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Linear Algebra & Complex Variables",
+                    "CourseCredits": 3,
+                    "Grade": "A-",
+                    "GradePoints": 11.1,
+                    "GPACredit": 3
+                }
+            ],
+            "MeritScholarshipTypeName": ""
+        },
+        {
+            "DisplayType": 0,
+            "TransferFrom": null,
+            "TotalCreditsTransferred": 0,
+            "TotalCreditsWaived": 0,
+            "SemesterName": "Summer-2021",
+            "TotalCreditCount": 11.5,
+            "gpa": 3.29,
+            "cgpa": 2.94,
+            "courses": [
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "CSE246",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Algorithms",
+                    "CourseCredits": 4.5,
+                    "Grade": "A",
+                    "GradePoints": 18,
+                    "GPACredit": 4.5
+                },
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "CSE325",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Operating Systems",
+                    "CourseCredits": 4,
+                    "Grade": "B-",
+                    "GradePoints": 10.8,
+                    "GPACredit": 4
+                },
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "PHY209",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Engineering Physics-II",
+                    "CourseCredits": 3,
+                    "Grade": "B",
+                    "GradePoints": 9,
+                    "GPACredit": 3
+                }
+            ],
+            "MeritScholarshipTypeName": ""
+        },
+        {
+            "DisplayType": 0,
+            "TransferFrom": null,
+            "TotalCreditsTransferred": 0,
+            "TotalCreditsWaived": 0,
+            "SemesterName": "Fall-2021",
+            "TotalCreditCount": 12.5,
+            "gpa": 3.41,
+            "cgpa": 3.01,
+            "courses": [
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "CSE200",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Computer-Aided Engineering Drawing",
+                    "CourseCredits": 1,
+                    "Grade": "B+",
+                    "GradePoints": 3.3,
+                    "GPACredit": 1
+                },
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "CSE302",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Database Systems",
+                    "CourseCredits": 4.5,
+                    "Grade": "A",
+                    "GradePoints": 18,
+                    "GPACredit": 4.5
+                },
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "CSE345",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Digital Logic Design",
+                    "CourseCredits": 4,
+                    "Grade": "B+",
+                    "GradePoints": 13.2,
+                    "GPACredit": 4
+                },
+                {
+                    "CourseType": 0,
+                    "CourseId": 0,
+                    "CourseCode": "CSE360",
+                    "PreviousCourseCode": null,
+                    "CourseName": "Computer Architecture",
+                    "CourseCredits": 3,
+                    "Grade": "B-",
+                    "GradePoints": 8.1,
+                    "GPACredit": 3
+                }
+            ],
+            "MeritScholarshipTypeName": ""
+        }
+    ],
+    "TransferTranscriptData": {
+        "DisplayType": 1,
+        "TransferFrom": "Prime Asia",
+        "TotalCreditsTransferred": 0,
+        "TotalCreditsWaived": 0,
+        "SemesterName": null,
+        "TotalCreditCount": 0,
+        "gpa": 0,
+        "cgpa": 0,
+        "courses": [],
+        "MeritScholarshipTypeName": null
+    },
+    "HasTransferData": false,
+    "HasWaiverData": false,
+    "WaivedTranscriptData": {
+        "DisplayType": 2,
+        "TransferFrom": null,
+        "TotalCreditsTransferred": 0,
+        "TotalCreditsWaived": 0,
+        "SemesterName": null,
+        "TotalCreditCount": 0,
+        "gpa": 0,
+        "cgpa": 0,
+        "courses": [],
+        "MeritScholarshipTypeName": null
+    }
+}
